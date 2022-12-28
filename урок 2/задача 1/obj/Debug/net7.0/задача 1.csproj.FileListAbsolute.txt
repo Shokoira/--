@@ -1,0 +1,15 @@
+C:\Users\Мой ПК\С#\урок 2\задача 1\bin\Debug\net7.0\задача 1.exe
+C:\Users\Мой ПК\С#\урок 2\задача 1\bin\Debug\net7.0\задача 1.deps.json
+C:\Users\Мой ПК\С#\урок 2\задача 1\bin\Debug\net7.0\задача 1.runtimeconfig.json
+C:\Users\Мой ПК\С#\урок 2\задача 1\bin\Debug\net7.0\задача 1.dll
+C:\Users\Мой ПК\С#\урок 2\задача 1\bin\Debug\net7.0\задача 1.pdb
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.csproj.AssemblyReference.cache
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.AssemblyInfoInputs.cache
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.AssemblyInfo.cs
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.dll
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\refint\задача 1.dll
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.pdb
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\задача 1.genruntimeconfig.cache
+C:\Users\Мой ПК\С#\урок 2\задача 1\obj\Debug\net7.0\ref\задача 1.dll
